@@ -1,0 +1,1 @@
+Reproduction for the issue reported at https://github.com/gatsbyjs/gatsby/issues/6761
